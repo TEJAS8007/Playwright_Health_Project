@@ -1,0 +1,7 @@
+{
+    "application_url" : "https://katalon-demo-cura.herokuapp.com/profile.php#login",
+    "userName" : "John Doe",
+    "password" : "ThisIsNotAPassword",
+    "login_page-title" : "CURA Healthcare Service",
+    "login_page_url" : "https://katalon-demo-cura.herokuapp.com/profile.php#login"
+}
