@@ -12,9 +12,9 @@ test.beforeEach(async () => {
   browser = await chromium.launch({ headless: false });
 
   context = await browser.newContext({
-    recordVideo: {
-      dir: 'Video_Folder/',  // ✅ Video folder
-    }
+    // recordVideo: {
+    //   dir: 'Video_Folder/',  
+    // }
   });
 
   page = await context.newPage();

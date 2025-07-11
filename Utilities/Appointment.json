@@ -1,9 +1,9 @@
 {
     "facility" : "Seoul CURA Healthcare Center" ,
-    "visit_Date" : "15/10/2025" ,
+    "visit_Date" : "09/07/2025" ,
     "comment" : "Booking appointment for Back pain" , 
     "readmission" : "Yes" ,
-    "Health_Program" : "Medicare" ,
+    "Health_Program" : "Medicaid" ,
     "appointment_Url" : "https://katalon-demo-cura.herokuapp.com/#appointment" ,
     "appointment-Title" : "CURA Healthcare Service"
 
